@@ -100,7 +100,7 @@
 &kp LCTRL       &kp LEFT_WIN  &kp LEFT_ALT  &kp LEFT_SHIFT  &mo 1  &kp SPACE          &lt 2 ENTER &kp BACKSPACE                             &kp JP_COLON
             >;
 
-            sensor-bindings = <&inc_dec_kp UP DOWN>;
+            sensor-bindings = <&inc_dec_kp UP_ARROW DOWN_ARROW>;
         };
 
         FUNCTION {
