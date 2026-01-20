@@ -53,7 +53,7 @@
 / {
     combos {
         compatible = "zmk,combos";
-
+/*
         tab {
             bindings = <&kp TAB>;
             key-positions = <11 12>;
@@ -78,6 +78,7 @@
             bindings = <&kp JP_EQUAL>;
             key-positions = <24 25>;
         };
+*/
     };
 
     macros {
