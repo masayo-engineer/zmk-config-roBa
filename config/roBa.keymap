@@ -30,8 +30,14 @@
 
 &mt {
     flavor = "balanced";
-    quick-tap-ms = <0>;
-    tapping-term-ms = <180>;
+    quick-tap-ms = <150>;
+    tapping-term-ms = <150>;
+};
+
+&lt {
+    flavor = "balanced";
+    quick-tap-ms = <150>;
+    tapping-term-ms = <150>;
 };
 
 &trackball {
